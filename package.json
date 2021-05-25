@@ -1,0 +1,21 @@
+{
+  "name": "frosty",
+  "version": "0.0.1",
+  "description": "",
+  "main": "frosty.js",
+  "scripts": {
+    "test": "node frosty.js"
+  },
+  "author": "Ayaz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.3.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "tag": "^0.4.17",
+    "ytdl-core": "^4.8.0"
+  }
+}
